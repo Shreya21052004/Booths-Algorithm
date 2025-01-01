@@ -1,2 +1,2 @@
-# Design and implement Booths 
-# multiplication algorithm.
+# Design and implement Booths multiplication algorithm
+
